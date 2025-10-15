@@ -1,0 +1,22 @@
+Language: Cpp
+ColumnLimit: 120
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+AllowShortEnumsOnASingleLine: false
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: Inline
+AlignConsecutiveAssignments: false
+AlignConsecutiveMacros: true
+AlignAfterOpenBracket: Align
+AlignEscapedNewlines: DontAlign
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+ContinuationIndentWidth: 4
+NamespaceIndentation: All
+SpaceBeforeParens: Custom
+SpaceBeforeParensOptions:
+  AfterForeachMacros: false
+  AfterIfMacros: true
+SortIncludes: Never
