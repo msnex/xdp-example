@@ -1,6 +1,8 @@
 # IDE
 .cache
+.vscode/
 /build/
+/builddir/
 
 # Prerequisites
 *.d
